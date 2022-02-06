@@ -14,5 +14,5 @@ Using 2 main algoritms :
         <li><i>SO ONNN ... </i></li>
       </ol>
 </ul>
-OOP based approaches
+OOP based approaches<br>
 CRUD operations for Database using SQL
