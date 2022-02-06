@@ -11,5 +11,8 @@ Using 2 main algoritms :
       <ol>
         <li>Dynamic Arrays</li>
         <li>Hash Maps (known as dict in python)</li>
+          <li><i>Soon ... </i></li>
       </ol>
 </ul>
+OOP based approaches
+CRUD operations for Database using SQL
