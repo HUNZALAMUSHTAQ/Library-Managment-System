@@ -11,7 +11,7 @@ Using 2 main algoritms :
       <ol>
         <li>Dynamic Arrays</li>
         <li>Hash Maps (known as dict in python)</li>
-          <li><i>Soon ... </i></li>
+        <li><i>SO ONNN ... </i></li>
       </ol>
 </ul>
 OOP based approaches
