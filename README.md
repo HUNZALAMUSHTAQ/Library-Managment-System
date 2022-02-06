@@ -11,6 +11,5 @@ Using 2 main algoritms :
       <ol>
         <li>Dynamic Arrays</li>
         <li>Hash Maps (known as dict in python)</li>
-
       </ol>
 </ul>
